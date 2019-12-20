@@ -1,0 +1,83 @@
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5dUoH5nMpCsQbv4WvF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/knight-ata-5dUoH5nMpCsQbv4WvF">via GIPHY</a></p>
+
+***Above is a Boxy Knight***
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7XoQocENug1UI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cube-morphing-geometryisneat-7XoQocENug1UI">via GIPHY</a></p>
+
+***Above is my CSS Artifact***
+
+<iframe src="https://giphy.com/embed/W4zWxePNoEW3neJKpJ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/W4zWxePNoEW3neJKpJ">via GIPHY</a></p>
+
+***Above is Purple Fireball
+
+<div style="width:100%;height:0;padding-bottom:93%;position:relative;"><iframe src="https://giphy.com/embed/2UoJj4mzBVReCRXNj4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/halloween-creepy-spooky-2UoJj4mzBVReCRXNj4">via GIPHY</a></p>
+
+**Above is a Book of Spells***
+
+<div style="width:100%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/w2l6eAYgdZ8Ry" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/art-community-behemoth-w2l6eAYgdZ8Ry">via GIPHY</a></p>
+
+***Above is HTML Goblin***
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/XAxylRMCdpbEWUAvr8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-js-edr-escueladevrock-XAxylRMCdpbEWUAvr8">via GIPHY</a></p>
+
+***Above is HTML Shield Logo***
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fsEaZldNC8A1PJ3mwp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-edr-escueladevrock-style-sheet-fsEaZldNC8A1PJ3mwp">via GIPHY</a></p>
+
+***Above is the CSS Shield Logo***
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Sr8xDpMwVKOHUWDVRD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-html-edr-escueladevrock-Sr8xDpMwVKOHUWDVRD">via GIPHY</a></p>
+
+**Above is the Bootstrap Logo***
+
+<div style="width:100%;height:0;padding-bottom:112%;position:relative;"><iframe src="https://giphy.com/embed/kdFc8fubgS31b8DsVu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-node-nodejs-edr-kdFc8fubgS31b8DsVu">via GIPHY</a></p>
+
+***Above is the Node Logo***
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ln7z2eWriiQAllfVcn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn">via GIPHY</a></p>
+
+***Above is the JavaScript Logo***
+
+<div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/LMt9638dO8dftAjtco" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco">via GIPHY</a></p>
+
+***Above is the Python Logo***
+
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/eNAsjO55tPbgaor7ma" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-edr-escueladevrock-no-de-eNAsjO55tPbgaor7ma">via GIPHY</a></p>
+
+***Above is React Logo***
+
+<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/IdyAQJVN2kVPNUrojM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/devrock-code-edr-escueladevrock-IdyAQJVN2kVPNUrojM">via GIPHY</a></p>
+
+***Above is the Visual Coder Logo(can use as a generic logo for other skill cards***
+
+<div style="width:100%;height:0;padding-bottom:87%;position:relative;"><iframe src="https://giphy.com/embed/W2XIJOMSFaXxgyNwKl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/Ironhackmad-data-coding-ironhack-W2XIJOMSFaXxgyNwKl">via GIPHY</a></p>
+
+***Above is a Coding Computer/Laptop***
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LMtXAp15215uY5Ykre" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-castle-life-LMtXAp15215uY5Ykre">via GIPHY</a></p>
+
+***Above is Playing Cards, 2 castle cards moving***
+
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1wqqxpwv0jyWHVI55f" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/merlin-mago-brincandocomarie-1wqqxpwv0jyWHVI55f">via GIPHY</a></p>
+
+***Above is cute old Javascript Wizard***
+
+<div style="width:100%;height:0;padding-bottom:131%;position:relative;"><iframe src="https://giphy.com/embed/29NDhZxIz8nTy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/board-games-29NDhZxIz8nTy">via GIPHY</a></p>
+
+***Above is scary lightning Javascript Wizard***
+
+<div style="width:100%;height:0;padding-bottom:300%;position:relative;"><iframe src="https://giphy.com/embed/4ZgHdVZCBr7QtKlJow" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/magic-staff-wand-4ZgHdVZCBr7QtKlJow">via GIPHY</a></p>
+
+**Above is a glowing Flame Staff***
+
+<div style="width:100%;height:0;padding-bottom:93%;position:relative;"><iframe src="https://giphy.com/embed/2UoJj4mzBVReCRXNj4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/halloween-creepy-spooky-2UoJj4mzBVReCRXNj4">via GIPHY</a></p>
+
+***Above is a Book of Spells with an Eye***
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xWD3RDI7YwDlhAvrbm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/blueroar-gold-woke-icosahedron-xWD3RDI7YwDlhAvrbm">via GIPHY</a></p>
+
+***Above is a Spinning 3d Hexagon (Node?)***
+
+
+

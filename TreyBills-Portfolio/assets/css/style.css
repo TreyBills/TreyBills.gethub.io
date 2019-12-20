@@ -1,0 +1,276 @@
+header {
+    position: relative;
+    top: 0;
+    left: 0;
+    /* opacity: 0.2; */
+    /* background-color: whitesmoke; */
+    font-family:'Pacifico', cursive;
+    width: 100%;
+    height: 5%;
+    float: left;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+#logo {
+    position: relative;
+    float: left;
+    height: 5%;
+    position: relative;
+    margin-bottom: 5%;
+    margin-left: 2%;
+    color: rgb(129, 25, 129);
+    
+}
+
+#logo:hover {
+    color: orangered;
+   
+}
+
+
+div.menu{
+    /* position: absolute; */
+    right: 5%;
+    float: right;
+    margin-top: .05%;
+    margin-right: 2%;
+}
+
+#portfolio{
+    color: rgb(129, 25, 129);
+    font-size: 20px; 
+}
+
+#portfolio:hover {
+    color: orangered;   
+}
+
+#contact {
+    font-size: 20px;
+    color: rgb(129, 25, 129);
+}
+
+#contact:hover {
+    color: orangered; 
+}
+
+body, html{
+height: 100%;
+width: 100%;
+margin: 0;
+padding: 0;
+overflow-x: hidden;
+}
+
+#imgCastle{
+    background-image: url('../images/castle-image3.png');
+    /* background-attachment: fixed; this will allow the scrolling action I desire for other pages */
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;;
+    height:100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  #knight-home {
+      /* src: url("assets/images/knight-shield.png"); */
+      visibility: hidden;
+      position: absolute;
+      height: 75px;
+      width: 75px;
+      top: 65%;
+      right: 45%;
+  }
+
+  #fireball {
+    visibility: hidden;
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    top: 3%;
+    right: 30%; 
+  }
+
+  #door-AM {
+    visibility: hidden;
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    top: 65%;
+    right: 30%; 
+  }
+  
+  #ribbonAM {
+    visibility: hidden;
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 48%;
+    right: 25%; 
+  }
+
+  #door-Portfolio {
+    visibility: hidden;
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 53%;
+    right: 56%; 
+  }
+
+  #ribbonPortfolio{
+    visibility: hidden;
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 44%;
+    right: 56%; 
+  }
+
+  #door-Contact {
+    visibility: hidden;
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 55%;
+    right: 70%; 
+  }
+
+  #ribbonContact {
+    visibility: hidden;
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 48%;
+    right: 70%; 
+  }
+
+/* #profile-img{
+   
+} */
+
+/* About Me ---------------------------- */
+
+#aboutME-body{
+    background-color: black;
+}
+
+#imgLibrary{
+    background-image: url('../images/libro-01.jpg');
+    /* background-attachment: fixed; this will allow the scrolling action I desire for other pages */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;;
+    height:100%;
+    margin-bottom: 10%;
+    padding: 0;
+    
+  }
+
+  #knight-AM1 {
+    /* src: url("assets/images/knight-shield.png"); */
+    position: fixed;
+    height: 300px;
+    width: 150px;
+    top: 45%;
+    right: 45%;
+}
+
+#imgCave{
+    background-image: url('../images/Ice\ Cavern\ Free\ Vector.jpg');
+    /* background-attachment: fixed; this will allow the scrolling action I desire for other pages */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;;
+    height:100%;
+    margin-bottom: 10%;
+    padding: 0;
+  }
+
+  #imgComputerlab{
+    background-image: url('../images/computer-lab.jpg');
+    /* background-attachment: fixed; this will allow the scrolling action I desire for other pages */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;;
+    height:100%;
+    margin-bottom: 10%;
+    padding: 0;
+  }
+
+  /* --------Portfolio------------------- */
+  #portfolio-body{
+    background-color: black;
+}
+
+#imgAlchemy{
+    background-image: url('../images/Portfolio-Background.jpg');
+    /* background-attachment: fixed; this will allow the scrolling action I desire for other pages */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;;
+    height:150%;
+    margin-bottom: 0;
+    padding: 0;
+    
+  }
+
+  #knight-port {
+    /* src: url("assets/images/knight-shield.png"); */
+    position: absolute;
+    height: 300px;
+    width: 150px;
+    top: 20%;
+    right: 15%;
+}
+
+#imgSmoke{
+  background-image: url('../images/SmokeRoom.jpg');
+  /* background-attachment: fixed; this will allow the scrolling action I desire for other pages */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;;
+  height:100%;
+  margin-bottom: 10%;
+  padding: 0;
+  
+}
+
+  /* --------Contact------------------------- */
+  #contact-body{
+    background-color: black;
+}
+
+#imgRookery{
+    background-image: url('../images/libro-01.jpg');
+    /* background-attachment: fixed; this will allow the scrolling action I desire for other pages */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;;
+    height:100%;
+    margin-bottom: 10%;
+    padding: 0;
+    
+  }
+
+  #knight-Con {
+    /* src: url("assets/images/knight-shield.png"); */
+    position: fixed;
+    height: 300px;
+    width: 150px;
+    top: 45%;
+    right: 45%;
+}
+
+
+
